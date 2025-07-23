@@ -93,7 +93,7 @@ Summary of Key Insights from the Car Inventory Analysis Price Trends:
 
 1. Car prices range: The car prices range widely, but most fall between $2,000 – $4,000. The average car price is around $3,000, indicating a focus on affordable used cars.
 2. Mileage vs. Price: Cars with lower mileage generally cost more, which is expected, there are a few high-mileage vehicles priced higher—possibly due to brand value or condition.
- 3. Popular Brands: The most common brands in the inventory are Toyota, Ford, and Chevrolet. This may suggest either high customer demand or dealer preference for these brands.
+3. Popular Brands: The most common brands in the inventory are Toyota, Ford, and Chevrolet. This may suggest either high customer demand or dealer preference for these brands.
 4. Car Color Preferences: Colors like Silver, Black, and White dominate the inventory. This can be useful in restocking and marketing based on color popularity.
 5. Profitability: The average profit margin differs by brand. Brands like Ford and Chevrolet seem to have higher average profits compared to others.
 
@@ -104,8 +104,7 @@ We recommend the following:
 
 1. Inventory Planning:
    - Continue focusing on the $2k–$4k price range to attract cost-conscious buyers.
-   - Maintain a balance of affordable vehicles with low mileage to appeal to both price and quality seekers.
-   - 
+   - Maintain a balance of affordable vehicles with low mileage to appeal to both price and quality seekers. 
 2. Targeted Procurement:
    - Prioritize Ford and Chevrolet for stock replenishment due to higher profitability.
    - Evaluate conditions of high-mileage but high-priced vehicles for brand-based premium pricing strategy.
